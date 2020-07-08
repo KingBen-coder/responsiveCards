@@ -1,0 +1,27 @@
+body{
+	background: linear-gradient(48deg, white, red, rgb(90,250, 100));
+}
+img{
+	height: 150px;
+	width: 250px;
+}
+.container{
+	border:1px solid black;
+	background: linear-gradient(35deg, violet, gold, rgb(170, 150,170));
+	height: 260px;
+	width: 250px;
+}
+.main-container{
+	width:900px;
+	border: 2px dotted black;
+}
+button{
+	background-color: black;
+	color: gold;
+	position: relative;
+	left: 150px;
+}
+button:hover{
+	color: black;
+	background-color: gold;
+}
